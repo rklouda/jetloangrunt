@@ -17,3 +17,5 @@ dist/*
 
 # *Sublime
 *.sublime-*
+node_modules
+build/*.js
